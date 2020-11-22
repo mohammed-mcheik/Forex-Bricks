@@ -1,2 +1,2 @@
 # Forex-Bricks
-scripts to be shared for public 
+Scripts to be shared for public 
